@@ -1,6 +1,6 @@
 # dufs-material-assets
 
-[![CI](https://github.com/TransparentLC/dufs-material-assets/actions/workflows/ci.yml/badge.svg)](https://github.com/TransparentLC/dufs-material-assets/actions/workflows/ci.yml)
+[![CI](https://github.com/TransparentLC/dufs-material-assets/actions/workflows/ci.yml/badge.svg)](https://github.com/TransparentLC/dufs-material-assets/actions/workflows/ci.yml) [<picture><source media="(prefers-color-scheme:dark)" srcset="https://notbyai.fyi/img/developed-by-human-not-by-ai-black-cn.svg"><img src="https://notbyai.fyi/img/developed-by-human-not-by-ai-white-cn.svg" alt="Not By AI" height="20"></picture>](https://notbyai.fyi/)
 
 [dufs](https://github.com/sigoden/dufs) 的 Material Design 风格自定义前端界面。
 
